@@ -14,5 +14,5 @@
 
         // Incrementa o contador de 2 em 2
         $contador += 2;
-    }
+    }   
 ?>
